@@ -1,0 +1,4 @@
+mongodb-infos.txt
+/generated/prisma
+node_modules
+.env
