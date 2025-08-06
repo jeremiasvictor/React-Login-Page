@@ -77,3 +77,9 @@ form {
     opacity: 0.5;
   }
 }
+
+.card button img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
